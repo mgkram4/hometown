@@ -2,7 +2,7 @@
 
 import { Player } from "@lottiefiles/react-lottie-player";
 import Carosuel from "./Carosuel";
-import builder from "/Users/mark/hometownrentals/public/Images/builders.json";
+import builder from "../../public/Images/builders.json";
 import Link from "next/link";
 
 export default function Hero() {
